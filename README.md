@@ -14,7 +14,7 @@ Tato konzolová aplikace slouží k evidenci pojištěných osob. Umožňuje už
 Pro spuštění aplikace je třeba provést následující kroky:
 
 1. Stáhnout zdrojové kódy aplikace.
-. Kompilovat a spustit aplikaci pomocí příkazové řádky.
+2. Kompilovat a spustit aplikaci pomocí příkazové řádky.
 
 ## Autor:
 

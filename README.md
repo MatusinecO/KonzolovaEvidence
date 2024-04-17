@@ -19,6 +19,8 @@ Pro spuštění aplikace je třeba provést následující kroky:
 ## Autor:
 
 Tuto aplikaci jsem vytvořil jako procvičování dovedností v OOP a logiky kódu. Budu rád za jakékoliv nápady na vylepšení, kritiku a dotazy. Neváhejte se na mne obrátit.
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
